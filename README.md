@@ -1,3 +1,3 @@
-# Conditional_GNN and data to repoduce the results in arxiv:xxx
+# Conditional_GNN and data to repoduce the results in arxiv:2405.16499
 
-# GNN codes done by Waleed Esmail. waleed.physics@gmail.com 
+
